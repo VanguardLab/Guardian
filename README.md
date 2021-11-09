@@ -1,1 +1,2 @@
-# Guardian is a reinforced case design for the Raspberry Pi
+# Guardian 
+A reinforced case design for the Raspberry Pi
