@@ -1,7 +1,7 @@
 ## The below is a list of parts required to build a Guardian Tool.
 
 # The Electronics:
-- Raspeberry Pi 4 4GB
+- Raspberry Pi 4 4GB
 - 16GB micro SD Card
 - USB-C Power Supply (https://thepihut.com/products/uk-usb-c-raspberry-pi-4-power-supply-5v-3a?variant=39493500698819)
 - 7" Official Pi Touchscreen
